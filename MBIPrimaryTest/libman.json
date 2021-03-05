@@ -12,5 +12,23 @@
         "js/bootstrap.min.js"
       ]
     }
+  ,
+{
+  "library": "jquery@3.6.0",
+  "destination": "lib/jquery/",
+  "files": [
+    "jquery.min.js",
+    "jquery.js"
   ]
+}
+,
+{
+  "library": "notify.js@3.0.0",
+  "destination": "lib/notify.js/",
+  "files": [
+    "notify.min.js",
+    "notify.js"
+  ]
+}
+]
 }
